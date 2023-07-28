@@ -1,4 +1,8 @@
 {
-    "error_network_message": "Netzwerkfehler",
-    "label1": "{value0} wartet auf Bestätigung"
+    "error_network_message": "Es gab einen Fehler!",
+    "label1": "Problem: {error}",
+    "@label1": {
+        "description": "Das ist ein Kommentar",
+        "type": "text"
+    }
 }
